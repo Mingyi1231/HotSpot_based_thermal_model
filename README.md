@@ -1,4 +1,4 @@
-# DisreibutedThermalModel
+# HotSpot based thermal model (DistributedThermalModel)
 The characterization have done for compute chiplet and interposer temperature, the result are in the "outputs" directory,  or you can run char_thermal_r.py file for another characterization which will take some time, all config files are in "configs" directory named by *.cfg, you can also add some config example in this directory. 
 
 Run char_thermal_r.py by:
